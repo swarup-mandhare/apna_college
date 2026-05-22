@@ -1,0 +1,28 @@
+1st time
+
+git init
+git add .
+git commit -m "first commit"
+git remote add origin URL
+git push -u origin main
+
+2nd time
+
+git add .
+git commit -m "message"
+git push
+
+Check current branch - git branch
+Run Python on Mac - python3 file.py
+Check Repo Status
+
+Mental Model 
+Code files
+   ↓
+git add .
+   ↓
+git commit
+   ↓
+git push
+   ↓
+GitHub
