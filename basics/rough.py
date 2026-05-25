@@ -1,5 +1,2 @@
-print("おはよう")
-name = "swarup"
-age = -21
-price = 2607.04
-print(age)
+string = "hello"
+print(string.count("l"))
